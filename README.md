@@ -72,7 +72,8 @@ Before proceeding with the installation and execution of the application, ensure
 2. Navigate to the "BMS" directory:
 
    ```bash
-   cd flask_with_sqlalchemy
+   cd flaskr_sqlalchemy
+
    ```
 
 3. Install the required packages and libraries by executing:
