@@ -125,6 +125,15 @@ Before running the application, it's essential to initialize the database and co
 
 ## Running the Application
 
+Firstly activate the virtual environment:
+```bash
+   . .venv/bin/activate
+   ```
+Now Navigate out of this directory:
+```bash
+   cd ..
+   ```
+
 To launch the application, execute the following command:
 
    ```bash
