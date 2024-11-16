@@ -76,10 +76,12 @@ Before proceeding with the installation and execution of the application, ensure
    cd flaskr_sqlalchemy
 
    ```
- 3.Then activate the virtual environment:
-```bash
+3. Then activate the virtual environment:
+
+   ```bash
    . .venv/bin/activate
    ```
+ 
 4. Install the required packages and libraries by executing:
 
    ```bash
