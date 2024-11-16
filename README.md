@@ -70,7 +70,7 @@ Before proceeding with the installation and execution of the application, ensure
    https://github.com/Pal1726/flaskr_sqlalchemy.git
    ```
 
-2. Navigate to the "BMS" directory:
+2. Navigate to the  directory:
 
    ```bash
    cd flaskr_sqlalchemy
