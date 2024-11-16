@@ -130,9 +130,9 @@ Before running the application, it's essential to initialize the database and co
 ## Running the Application
 
 
- Navigate out of this directory:
+Navigate out of this directory:
 ```bash
-   cd ..
+  cd ..
    ```
 
 To launch the application, execute the following command:
@@ -150,7 +150,7 @@ This command will start the Flask development server, and you can access the Blo
 The Blog Application offers the following essential functionalities:
 
 1.User Registration
-2.User Login
+2.User login
 3.Create Posts
 4.View Posts
 5.Edit Posts
@@ -161,7 +161,4 @@ The Blog Application offers the following essential functionalities:
 10.Command-Line Utility
 
 Users can easily perform CRUD operations on these components, enabling them to add, view, update, or delete entries as necessary.
-<<<<<<< HEAD
 
-=======
->>>>>>> 411c5f12e662c8f09d0a824fc920b3627c6f6cdc
