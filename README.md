@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 411c5f12e662c8f09d0a824fc920b3627c6f6cdc
 # Blog-Project-by-Flask with SQLalchemy
 #project overview
 This Flask application, built with SQLAlchemy and MySQL, enables users to register, log in, and manage posts. Users can create, edit, and delete their own posts while enjoying a secure and personalized experience. It combines robust authentication and efficient database management to deliver a seamless, user-friendly blogging platform.
@@ -70,7 +67,7 @@ Before proceeding with the installation and execution of the application, ensure
 1. Clone the GitHub repository to your desired location:
 
    ```bash
-   https://github.com/Pal1726/flask_with_sqlalchemy.git
+   https://github.com/Pal1726/flaskr_sqlalchemy.git
    ```
 
 2. Navigate to the "BMS" directory:
