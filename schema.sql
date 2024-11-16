@@ -1,3 +1,8 @@
+#Create database
+create database first_project;
+
+#use database
+use first_project;
 
 DROP TABLE IF EXISTS post;
 DROP TABLE IF EXISTS user;
