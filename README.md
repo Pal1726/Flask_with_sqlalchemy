@@ -81,7 +81,10 @@ Before proceeding with the installation and execution of the application, ensure
    ```bash
    pip install -r requirements.txt
    ```
-
+4. If you're encountering an error in installing requirements.txt then do this:
+   ```bash
+   sudo apt install libmysqlclient-dev
+   ```
 ## Database Initialization and Configuration
 
 Before running the application, it's essential to initialize the database and configure the connection. Follow these steps:
