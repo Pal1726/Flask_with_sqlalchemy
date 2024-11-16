@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 411c5f12e662c8f09d0a824fc920b3627c6f6cdc
 # Blog-Project-by-Flask with SQLalchemy
 #project overview
 This Flask application, built with SQLAlchemy and MySQL, enables users to register, log in, and manage posts. Users can create, edit, and delete their own posts while enjoying a secure and personalized experience. It combines robust authentication and efficient database management to deliver a seamless, user-friendly blogging platform.
@@ -151,4 +154,7 @@ The Blog Application offers the following essential functionalities:
 10.Command-Line Utility
 
 Users can easily perform CRUD operations on these components, enabling them to add, view, update, or delete entries as necessary.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 411c5f12e662c8f09d0a824fc920b3627c6f6cdc
