@@ -138,15 +138,15 @@ This command will start the Flask development server, and you can access the Blo
 
 The Blog Application offers the following essential functionalities:
 
-User Registration
-User Login
-Create Posts
-View Posts
-Edit Posts
-Delete Posts
-Authorization
-Error Handling
-Database Management
-Command-Line Utility
+1.User Registration
+2.User Login
+3.Create Posts
+4.View Posts
+5.Edit Posts
+6.Delete Posts
+7.Authorization
+8.Error Handling
+9.Database Management
+10.Command-Line Utility
 
 Users can easily perform CRUD operations on these components, enabling them to add, view, update, or delete entries as necessary.
