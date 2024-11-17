@@ -96,7 +96,7 @@ Before proceeding with the installation and execution of the application, ensure
 
 Before running the application, it's essential to initialize the database and configure the connection. Follow these steps:
 
-1. Import the database schema by running the SQL script (`QUERIES.SQL`) provided in the repository. This script will set up the required tables and initial data.
+1. Import the database schema by running the SQL script (`schema.sql`) provided in the repository. This script will set up the required tables and initial data.
 ##### (a) Using MySQL Interpreter
 
 1. **Login to MySQL Interpreter**
