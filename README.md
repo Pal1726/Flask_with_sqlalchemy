@@ -45,10 +45,10 @@ Experience a simple and user-friendly interface.
 The project directory includes the following files and directories:
 
 - `__init__.py`: Initializes the Flask application with SQLAlchemy, configures the MySQL database, sets up blueprints for authentication and blog features, and ensures the instance folder exists.
-- - `db.py`: Manages database operations, including getting a database session, closing it, and initializing tables. It also provides CLI commands to reset and initialize the database, integrating with Flask's lifecycle.
-- `auth.py`: Manages user authentication, including registration, login, and logout. It uses SQLAlchemy for database queries, securely hashes passwords, tracks logged-in users, and includes a `login_required` decorator to protect views.
-- - `blog.py`: Handles blog post management, including displaying posts, creating new posts, updating existing ones, and deleting posts. It uses SQLAlchemy for database operations, integrates user authentication, and protects routes with a `login_required` decorator.
-  - - `models.py`: Defines database models using SQLAlchemy. Includes `User` for storing user credentials and associating users with posts, and `Post` for storing blog post details with a relationship to the user who created them.
+- `db.py`: Manages database operations, including getting a database session, closing it, and initializing tables. It also provides CLI commands to reset and initialize the database, integrating with Flask's lifecycle.
+-`auth.py`: Manages user authentication, including registration, login, and logout. It uses SQLAlchemy for database queries, securely hashes passwords, tracks logged-in users, and includes a `login_required` decorator to protect views.
+- `blog.py`: Handles blog post management, including displaying posts, creating new posts, updating existing ones, and deleting posts. It uses SQLAlchemy for database operations, integrates user authentication, and protects routes with a `login_required` decorator.
+- `models.py`: Defines database models using SQLAlchemy. Includes `User` for storing user credentials and associating users with posts, and `Post` for storing blog post details with a relationship to the user who created them.
 
 ##### Directory 
 - `templates` : This directory contain all the HTML files.
