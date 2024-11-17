@@ -114,7 +114,7 @@ Before running the application, it's essential to initialize the database and co
 
 #### After importing the database, update the database configuration as mentioned in the next step.    
 
-3. Update the MySQL database configuration in the `__inti__.py` file. Open `__int__.py` and provide your MySQL database connection details as follows:
+3. Update the MySQL database configuration in the `__init__.py` file. Open `__init__.py` and provide your MySQL database connection details as follows:
 
    ```python
    db_config = {
