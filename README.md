@@ -79,19 +79,24 @@ Before proceeding with the installation and execution of the application, ensure
    cd flaskr_sqlalchemy
 
    ```
-3. Then activate the virtual environment:
+3. Then create the virtual environment:
 
    ```bash
-   . .venv/bin/activate
+   python3 -m venv .my_env
+   ```
+4. Then activate the virtual environment:
+
+   ```bash
+   source .my_env/bin/activate
    ```
  
-4. Install the required packages and libraries by executing:
+5. Install the required packages and libraries by executing:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-5. If you're encountering an error in installing requirements.txt then do this:
+6. If you're encountering an error in installing requirements.txt then do this:
    ```bash
    sudo apt install libmysqlclient-dev
    ```
