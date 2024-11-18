@@ -123,8 +123,8 @@ Before running the application, it's essential to initialize the database and co
 #### After importing the database, update the database configuration as mentioned in the next step.    
 
 3. Update the MySQL database configuration in the `__init__.py` file. Open `__init__.py` and provide your MySQL database connection details as follows:
-
-   ``` SQLALCHEMY_DATABASE_URI='mysql://your_database_user:your_database_password@your_database_host/your_database_name'
+    ```python
+   SQLALCHEMY_DATABASE_URI='mysql://your_database_user:your_database_password@your_database_host/your_database_name'
    ```
 
    Save the changes.
