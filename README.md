@@ -124,13 +124,7 @@ Before running the application, it's essential to initialize the database and co
 
 3. Update the MySQL database configuration in the `__init__.py` file. Open `__init__.py` and provide your MySQL database connection details as follows:
 
-   ```python
-   db_config = {
-       "host": "your_database_host",
-       "user": "your_database_user",
-       "password": "your_database_password",
-       "database": "your_database_name"
-   }
+   ``` SQLALCHEMY_DATABASE_URI='mysql://your_database_user:your_database_password@your_database_host/your_database_name'
    ```
 
    Save the changes.
